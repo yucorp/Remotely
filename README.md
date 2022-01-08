@@ -1,4 +1,4 @@
-# Remotely
+# Remotely YuCorp FORK
 A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 
 [![Build Status](https://dev.azure.com/translucency/Remotely/_apis/build/status/Remotely-ReleaseBuild?branchName=master)](https://dev.azure.com/translucency/Remotely/_build/latest?definitionId=17&branchName=master)
